@@ -17,7 +17,7 @@
 * 🥈 [SignalNeuroHack](https://www.prostospb.team/hackaton) "Recommender system design" 2022
 * [TrueTechHack](https://true-tech-hack.ru/) "Generation of audio descriptions" 2023 | [Solution](https://github.com/Sapf3ar/mts_ttech)
 * [XMasHack](https://xmas-hack.ru/) "Document type classification" 2022 | [Solution](https://github.com/Egorgij21/xmasHack_contractTrack)
-* [VTB MORE.Tech 4.0](https://moretech.vtb.ru/) | [Solution](https://github.com/Egorgij21/Relevant-news)
+* [MORE.Tech 4.0 VTB](https://moretech.vtb.ru/) "News classification" 2022 | [Solution](https://github.com/Egorgij21/Relevant-news)
 
 
 ### Languages
