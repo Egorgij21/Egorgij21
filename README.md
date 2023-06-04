@@ -28,8 +28,8 @@
 ### Contacts
 <p align="left"> 
   <a href="https://t.me/Egorgij21" target="_blank"> 
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png](https://www.kaggle.com/egorgij21)" alt="android" width="60" height="30"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
   </a>
-    <a href="https://kaggle/Egorgij21" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="android" width="30" height="30"/> 
+    <a href="https://www.kaggle.com/egorgij21" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="android" width="60" height="30"/> 
 </p>
