@@ -12,7 +12,7 @@
 
 
 ### 🏆 Competition Background
-* 🥈 [AMP](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction) - Parkinson’s Disease Progression Prediction 2023. Result: kaggle silver medal, 24/1805 place
+* 🥈 [AMP](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction) "Parkinson’s Disease Progression Prediction" 2023
 * 🥉 [RuCode 7.0](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/MaksKhan/RuCode_7)
 * 🥈 [SignalNeuroHack](https://www.prostospb.team/hackaton) "Recommender system design" 2022
 * [TrueTechHack](https://true-tech-hack.ru/) "Generation of audio descriptions" 2023 | [Solution](https://github.com/Sapf3ar/mts_ttech)
@@ -30,4 +30,6 @@
   <a href="https://t.me/Egorgij21" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
   </a>
+    <a href="https://kaggle/Egorgij21" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="android" width="30" height="30"/> 
 </p>
