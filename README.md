@@ -22,7 +22,7 @@
 
 ### Languages
 🇷🇺 Russian - Native <br>
-🇬🇧 English - B2 <br>
+🇬🇧 English - B1 <br>
 
 
 ### Contacts
