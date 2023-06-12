@@ -16,6 +16,13 @@
   <a href="https://catboost.ai" align="left">
     <img src="https://jarcasting.com/img/org_logos/c/a/catboost.png"/ width=50 height=50>
     </a>
+    <a href="https://huggingface.co" target="_blank"> 
+
+    <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
+
+  </a>
+
+  
     <a href="https://optuna.org/" align="left">
       <img src="https://dl.acm.org/cms/asset/9c859475-4d73-42f6-9687-276e8016dd81/3292500.3330701.key.jpg"/ width=50 height=50>
     </a>
