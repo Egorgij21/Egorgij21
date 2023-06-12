@@ -7,7 +7,7 @@
 
 
 ### 🎓 Education
-* [Deep Learning School](https://dls.samcs.ru/) (Since 2022 - 2023)
+* [Deep Learning School](https://dls.samcs.ru/) (2022 - 2023)
 * [NUST MISiS](https://en.misis.ru) (Since 2022)
 
 
