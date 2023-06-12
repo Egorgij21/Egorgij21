@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" align="left">
     <img src="https://www.unitygroup.com/wp-content/uploads/2020/12/Scikit-learn_logo.jpg"/ width=50 height=50>
   </a>
-  <a href="hhttps://catboost.ai/" align="left">
+  <a href="https://catboost.ai" align="left">
     <img src="https://jarcasting.com/img/org_logos/c/a/catboost.png"/ width=50 height=50>
     </a>
     <a href="https://optuna.org/" align="left">
