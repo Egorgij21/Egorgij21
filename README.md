@@ -46,6 +46,8 @@
 * 🥈 [SignalNeuroHack](https://www.prostospb.team/hackaton) "Recommender system design" 2022
 * 4 place [Цифровой прорыв](https://hacks-ai.ru/hackathons.html?eventId=969074&tabId=981430&number=1) "MVP for work with documentation" 2023 | [Solution](https://github.com/Sapf3ar/case1)
 * [TrueTechHack](https://true-tech-hack.ru/) "Generation of audio descriptions" 2023 | [Solution](https://github.com/Sapf3ar/mts_ttech)
+* [HuBMAP](https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature) "Segmentation of blood vessels in the kidney
+" 2023
 * [XMasHack](https://xmas-hack.ru/) "Document type classification" 2022 | [Solution](https://github.com/Egorgij21/xmasHack_contractTrack)
 * [MORE.Tech 4.0 VTB](https://moretech.vtb.ru/) "News classification" 2022 | [Solution](https://github.com/Egorgij21/Relevant-news)
 
