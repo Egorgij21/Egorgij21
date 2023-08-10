@@ -26,7 +26,7 @@
     <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
    </a> 
     <a href="https://optuna.org/" align="left">
-      <img src="https://optuna.org/assets/img/optuna-logo@2x.png"/ width=50 height=50>
+      <img src="https://avatars.githubusercontent.com/u/57251745?s=400&v=4"/ width=50 height=50>
   </a>
   <a href="https://seaborn.pydata.org/" align="left">
     <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2F4UIIH%2FbtqIH4tfonl%2FLyCOqYkmqKo1gFrogryni1%2Fimg.png"/ width=50 height=50>
