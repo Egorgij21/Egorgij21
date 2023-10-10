@@ -41,7 +41,7 @@
 
 
 ### 🏆 Competition Background
-* 🥈 [AMP](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction) "Parkinson’s Disease Progression Prediction" 2023
+* 🥈 kaggle [AMP](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction) "Parkinson’s Disease Progression Prediction" 2023
 * 🥈 [RuCode 7.0](https://rucode.net) "Address normalization" 2023 | [Solution](https://github.com/Egorgij21/RuCode_7.0)
 * 🥉 [RuCode 6.5](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/MaksKhan/RuCode_7)
 * 🥈 [SignalNeuroHack](https://www.prostospb.team/hackaton) "Recommender system design" 2022
