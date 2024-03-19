@@ -1,7 +1,7 @@
 <h1 align="left">Georgii Aparin</h1>
 #### Machine Learning Engineer
-**Fields of interest:** Audio, CV, NLP
-**Telegram channel:** [Aparin AI](https://t.me/AparinAI)
+#### Fields of interest: Audio, CV, NLP
+#### Telegram channel: [Aparin AI](https://t.me/AparinAI)
 
 
 ### [CV](https://drive.google.com/file/d/1oqPb6TquFySiXh5k86N5zwygkyycl0ko/view?usp=sharing)
