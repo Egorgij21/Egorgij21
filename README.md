@@ -1,5 +1,7 @@
 ## Georgii Aparin
-#### Machine learning engineer / Data Scientist
+#### Machine learning engineer
+#### Fields: Audio, CV, NLP
+
 
 ### [CV](https://drive.google.com/file/d/1oqPb6TquFySiXh5k86N5zwygkyycl0ko/view?usp=sharing)
 </br>
