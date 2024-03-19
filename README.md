@@ -4,36 +4,6 @@
 ### [CV](https://drive.google.com/file/d/1oqPb6TquFySiXh5k86N5zwygkyycl0ko/view?usp=sharing)
 </br>
 
-### 💻 ML stack
-
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" align="left">
-    <img src="https://cdn66.printdirect.ru/cache/product/26/35/6239603/tov/all/480z480_front_1009_0_0_0_5614f2aa57b291cb813562e1fd64.jpg"/ width=50 height=50>
-  </a>
-  <a href="https://pandas.pydata.org/" align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png""/ width=50 height=50>
-  </a>
-  <a href="https://scikit-learn.org/stable/" align="left">
-    <img src="https://www.unitygroup.com/wp-content/uploads/2020/12/Scikit-learn_logo.jpg"/ width=50 height=50>
-  </a>
-  <a href="https://catboost.ai" align="left">                              </a>
-  <a href="https://pytorch.org/" align="left">
-    <img src="https://static.tildacdn.com/tild6363-3034-4334-b635-343764666537/AKedOLSoFTKBTgTbg8Y1.jpg"/ width=50 height=50>
-    </a>                         
-    <img src="https://jarcasting.com/img/org_logos/c/a/catboost.png"/ width=50 height=50>
-   </a>
-    <a href="https://huggingface.co" target="_blank"> 
-    <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
-   </a> 
-    <a href="https://optuna.org/" align="left">
-      <img src="https://avatars.githubusercontent.com/u/57251745?s=400&v=4"/ width=50 height=50>
-  </a>
-  <a href="https://seaborn.pydata.org/" align="left">
-    <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2F4UIIH%2FbtqIH4tfonl%2FLyCOqYkmqKo1gFrogryni1%2Fimg.png"/ width=50 height=50>
-  </a>
-</p>
-
-
 
 ### 🎓 Education
 * [Deep Learning School](https://dls.samcs.ru/) (2022 - 2023)
@@ -43,6 +13,7 @@
 ### 🏆 Competition Background
 * 🥈 kaggle [AMP](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction) "Parkinson’s Disease Progression Prediction" 2023
 * 🥉 kaggle [RSNA](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/overview) "Abdominal Trauma Detection" 2023 | [Solution](https://github.com/Egorgij21/RSNA_2023_Abdominal_Trauma_Detection)
+* 🥇 [ВФМ Камчатский](https://tenchat.ru/media/2074987-privet-mezhdunarodniy-khakaton-i-vsemirniy-festival-molodezhi-2024) "Detection+Tracking and Auto-Labling service" 2024 | [Solution](https://github.com/sir-timio/WYF2024)
 * 🥉 [ЛЦТ](https://i.moscow/cabinet/lct/hackatons/79d36ac5f69f4cea98753fecd84b3b76) "Social network analysis service for career guidance of the population" | [Solution](https://github.com/EgorTarasov/lct-2023-yakutia)
 * 🥈 [RuCode 7.0](https://rucode.net) "Address normalization" 2023 | [Solution](https://github.com/Egorgij21/RuCode_7.0)
 * 🥉 [RuCode 6.5](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/MaksKhan/RuCode_7)
@@ -58,7 +29,7 @@
 
 ### Languages
 🇷🇺 Russian - Native <br>
-🇬🇧 English - B1 <br>
+🇬🇧 English - B2 <br>
 
 
 ### Contacts
