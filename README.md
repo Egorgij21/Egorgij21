@@ -1,4 +1,4 @@
-<h1 align="left">Georgii Aparin</h1>
+### Georgii Aparin
 #### Machine Learning Engineer
 #### Fields of interest: Audio, CV, NLP
 #### Telegram channel: [Aparin AI](https://t.me/AparinAI)
