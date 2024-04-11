@@ -3,7 +3,7 @@
 Fields of interest: &thinsp;&thinsp;&thinsp; Audio, CV, NLP<br />
 Telegram channel: &thinsp;[Aparin AI](https://t.me/AparinAI)<br />
 Kaggle account:  &thinsp;&thinsp; &thinsp;&thinsp; [Egorgij21](https://www.kaggle.com/egorgij21)<br />
-Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/1oqPb6TquFySiXh5k86N5zwygkyycl0ko/view?usp=sharing)<br />
+Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/1IvFlltPdKnhCjKbjNNwZqu61lnFpafgF/view?usp=sharing)<br />
 </br>
 
 
