@@ -30,7 +30,7 @@ Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/
 * 🥇 [ВФМ Камчатский](https://tenchat.ru/media/2074987-privet-mezhdunarodniy-khakaton-i-vsemirniy-festival-molodezhi-2024) "Detection+Tracking and Auto-Labling service" 2024 | [Solution](https://github.com/sir-timio/WYF2024)
 * 🥈 [SignalNeuroHack](https://www.prostospb.team/hackaton) "Recommender system design" 2022
 * 🥈 [RuCode 7.0](https://rucode.net) "Address normalization" 2023 | [Solution](https://github.com/Egorgij21/RuCode_7.0)
-* 🥉 [RuCode 6.5](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/MaksKhan/RuCode_7
+* 🥉 [RuCode 6.5](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/MaksKhan/RuCode_7)
 * 🥉 [ЛЦТ](https://i.moscow/cabinet/lct/hackatons/79d36ac5f69f4cea98753fecd84b3b76) "Social network analysis service for career guidance of the population" | [Solution](https://github.com/EgorTarasov/lct-2023-yakutia)
 * 🥉 [Цифровой прорыв](https://hacks-ai.ru/events/1077372) "Generating descriptions of museum exhibits using multimodal LLM" 2024 | [Solution](https://github.com/Sapf3ar/expo-search)
 * 4 place [Цифровой прорыв](https://hacks-ai.ru/hackathons.html?eventId=969074&tabId=981430&number=1) "MVP for work with documentation" 2023 | [Solution](https://github.com/Sapf3ar/case1)
