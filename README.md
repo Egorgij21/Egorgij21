@@ -15,6 +15,7 @@ Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/
 ### ☕ Work Expirience
 * [Uvenco](https://uvenco.ru/) - Audio + NLP position (November 2023 - now):
   - Development and Optimization of **ASR** service
+  - **ASR** embedded inference on **Rockchip** plate
   - Research and Development for **TTS** and **Slotfilling** services
   - Affine-Transformation on C++ for Face-Rec service
   - CI/CD GitLab testing
@@ -23,8 +24,6 @@ Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/
 ### 🦢 Kaggle Background
 * 🥈 24/1805 [AMP](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction) "Parkinson’s Disease Progression Prediction" 2023
 * 🥉 64/1125 [RSNA](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/overview) "Abdominal Trauma Detection" 2023 | [Solution](https://github.com/Egorgij21/RSNA_2023_Abdominal_Trauma_Detection)
-* &thinsp; overfit XD [HuBMAP](https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature) "Segmentation of blood vessels in the kidney" 2023
-</br>
 
 ### 🏆 Hackatons Background
 * 🥇 [ВФМ Камчатский](https://tenchat.ru/media/2074987-privet-mezhdunarodniy-khakaton-i-vsemirniy-festival-molodezhi-2024) "Detection+Tracking and Auto-Labling service" 2024 | [Solution](https://github.com/sir-timio/WYF2024)
@@ -35,6 +34,7 @@ Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/
 * 🥉 [Цифровой прорыв](https://hacks-ai.ru/events/1077372) "Generating descriptions of museum exhibits using multimodal LLM" 2024 | [Solution](https://github.com/Sapf3ar/expo-search)
 * 4 place [Цифровой прорыв](https://hacks-ai.ru/hackathons.html?eventId=969074&tabId=981430&number=1) "MVP for work with documentation" 2023 | [Solution](https://github.com/Sapf3ar/case1)
 * 5 place [Цифровой прорыв](https://hacks-ai.ru/hackathons.html?eventId=969079&caseEl=993800&tab=1) "OCR recognition and graph clusterization" 2023 | [Solution](https://github.com/Sapf3ar/topblog_case)
+* [ЛЦТ](https://i.moscow/lct) "Service for indexing and searching videos by text query" 2024 | [Solution](https://github.com/Sapf3ar/tiktokers/tree/main)
 * [TrueTechHack](https://true-tech-hack.ru/) "Generation of audio descriptions" 2023 | [Solution](https://github.com/Sapf3ar/mts_ttech)
 * [XMasHack](https://xmas-hack.ru/) "Document type classification" 2022 | [Solution](https://github.com/Egorgij21/xmasHack_contractTrack)
 * [MORE.Tech 4.0 VTB](https://moretech.vtb.ru/) "News classification" 2022 | [Solution](https://github.com/Egorgij21/Relevant-news)
