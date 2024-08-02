@@ -35,9 +35,6 @@ Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/
 * 4 place [Цифровой прорыв](https://hacks-ai.ru/hackathons.html?eventId=969074&tabId=981430&number=1) "MVP for work with documentation" 2023 | [Solution](https://github.com/Sapf3ar/case1)
 * 5 place [Цифровой прорыв](https://hacks-ai.ru/hackathons.html?eventId=969079&caseEl=993800&tab=1) "OCR recognition and graph clusterization" 2023 | [Solution](https://github.com/Sapf3ar/topblog_case)
 * [ЛЦТ](https://i.moscow/lct) "Service for indexing and searching videos by text query" 2024 | [Solution](https://github.com/Sapf3ar/tiktokers/tree/main)
-* [TrueTechHack](https://true-tech-hack.ru/) "Generation of audio descriptions" 2023 | [Solution](https://github.com/Sapf3ar/mts_ttech)
-* [XMasHack](https://xmas-hack.ru/) "Document type classification" 2022 | [Solution](https://github.com/Egorgij21/xmasHack_contractTrack)
-* [MORE.Tech 4.0 VTB](https://moretech.vtb.ru/) "News classification" 2022 | [Solution](https://github.com/Egorgij21/Relevant-news)
 </br>
 
 ### 🌐 Languages
