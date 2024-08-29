@@ -17,7 +17,7 @@ Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/
   - Development and Optimization of **ASR** service
   - **ASR** embedded inference on **Rockchip** plate
   - Research and Development for **TTS** and **Slotfilling** services
-  - Affine-Transformation on C++ for Face-Rec service
+  - Algorithms on C++ for Face-Rec service
   - CI/CD GitLab testing
 </br>
 
