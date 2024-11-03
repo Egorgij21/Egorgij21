@@ -14,11 +14,6 @@ Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/
 
 ### ☕ Work Expirience
 * [Uvenco](https://uvenco.ru/) - Audio + NLP position (November 2023 - November 2024):
-  - Development and Optimization of **ASR** service
-  - **ASR** embedded inference on **Rockchip** plate
-  - Research and Development for **TTS** and **Slotfilling** services
-  - Algorithms on C++ for Face-Rec service
-  - CI/CD GitLab testing
 * [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) - DL Audio Egineer (November 2024 - now):
 
 </br>
