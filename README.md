@@ -13,8 +13,8 @@ Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/
 </br>
 
 ### ☕ Work Expirience
-* [Uvenco](https://uvenco.ru/) - Audio + NLP position (November 2023 - November 2024):
-* [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) - DL Audio Egineer (November 2024 - now):
+* [Uvenco](https://uvenco.ru/) - Audio + NLP position (November 2023 - November 2024)
+* [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) - DL Audio Egineer (November 2024 - now)
 
 </br>
 
