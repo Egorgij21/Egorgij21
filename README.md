@@ -22,7 +22,7 @@ Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/
 </br>
 
 ### 🦢 Kaggle Background
-* 🥇 10/1151 [Ariel](https://www.kaggle.com/competitions/ariel-data-challenge-2024) "Exoplanet spectra distribution restoration" 2024 | [Solution](https://www.kaggle.com/competitions/ariel-data-challenge-2024/discussion/544189)
+* 🥇 10/1151 [ARIEL](https://www.kaggle.com/competitions/ariel-data-challenge-2024) "Exoplanet spectra distribution restoration" 2024 | [Solution](https://www.kaggle.com/competitions/ariel-data-challenge-2024/discussion/544189)
 * 🥈 24/1805 [AMP](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction) "Parkinson’s Disease Progression Prediction" 2023
 * 🥉 64/1125 [RSNA](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/overview) "Abdominal Trauma Detection" 2023 | [Solution](https://github.com/Egorgij21/RSNA_2023_Abdominal_Trauma_Detection)
 
