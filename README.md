@@ -1,9 +1,6 @@
 ### <h1 align="left">Georgii Aparin</h1>
 ### Machine Learning Engineer
 Fields of interest: &thinsp;&thinsp;&thinsp; Audio, Fishing<br />
-Telegram channel: &thinsp;[Aparin AI](https://t.me/AparinAI)<br />
-Kaggle account:  &thinsp;&thinsp; &thinsp;&thinsp; [Egorgij21](https://www.kaggle.com/egorgij21)<br />
-Curriculum vitae: &thinsp;&thinsp;&thinsp; [CV](https://drive.google.com/file/d/1IvFlltPdKnhCjKbjNNwZqu61lnFpafgF/view?usp=sharing)<br />
 </br>
 
 
