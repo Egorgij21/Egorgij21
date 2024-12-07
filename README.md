@@ -1,6 +1,6 @@
 ### <h1 align="left">Georgii Aparin</h1>
 ### Machine Learning Engineer
-Fields of interest: &thinsp;&thinsp;&thinsp; Audio, Fishing<br />
+Fields of interest: Audio, Fishing<br />
 </br>
 
 ### 🎓 Education
