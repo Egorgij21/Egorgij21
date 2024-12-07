@@ -1,7 +1,4 @@
 ### <h1 align="left">Georgii Aparin</h1>
-### Chill Guy
-Fields of interest: Audio, Fishing<br />
-</br>
 
 ### 🎓 Education
 * [Deep Learning School](https://dls.samcs.ru/) (2022 - 2023)
