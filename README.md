@@ -1,5 +1,5 @@
 ### <h1 align="left">Georgii Aparin</h1>
-### Machine Learning Engineer
+### DL Audio Engineer or Researcher idk
 Fields of interest: Audio, Fishing<br />
 </br>
 
@@ -9,8 +9,8 @@ Fields of interest: Audio, Fishing<br />
 </br>
 
 ### ☕ Work Expirience
-* [Uvenco](https://uvenco.ru/) - Audio + NLP position (November 2023 - November 2024)
-* [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) - DL Audio Egineer (November 2024 - now)
+* [Uvenco](https://uvenco.ru/) - DL Audio Egineer (November 2023 - November 2024)
+* [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) - DL Audio Researcher (November 2024 - now)
 </br>
 
 ### 🦢 Kaggle Background
