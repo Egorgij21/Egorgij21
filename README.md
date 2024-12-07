@@ -6,7 +6,7 @@ Fields of interest: &thinsp;&thinsp;&thinsp; Audio, Fishing<br />
 
 ### 🎓 Education
 * [Deep Learning School](https://dls.samcs.ru/) (2022 - 2023)
-* [NUST MISiS](https://en.misis.ru) (Since 2022)
+* [NUST MISIS](https://en.misis.ru) (Since 2022)
 </br>
 
 ### ☕ Work Expirience
@@ -20,17 +20,6 @@ Fields of interest: &thinsp;&thinsp;&thinsp; Audio, Fishing<br />
 * 🥈 24/1805 [AMP](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction) "Parkinson’s Disease Progression Prediction" 2023
 * 🥉 64/1125 [RSNA](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/overview) "Abdominal Trauma Detection" 2023 | [Solution](https://github.com/Egorgij21/RSNA_2023_Abdominal_Trauma_Detection)
 
-### 🏆 Hackatons Background
-* 🥇 [ВФМ Камчатский](https://tenchat.ru/media/2074987-privet-mezhdunarodniy-khakaton-i-vsemirniy-festival-molodezhi-2024) "Detection+Tracking and Auto-Labling service" 2024 | [Solution](https://github.com/sir-timio/WYF2024)
-* 🥈 [SignalNeuroHack](https://www.prostospb.team/hackaton) "Recommender system design" 2022
-* 🥈 [RuCode 7.0](https://rucode.net) "Address normalization" 2023 | [Solution](https://github.com/Egorgij21/RuCode_7.0)
-* 🥉 [RuCode 6.5](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/MaksKhan/RuCode_7)
-* 🥉 [ЛЦТ](https://i.moscow/cabinet/lct/hackatons/79d36ac5f69f4cea98753fecd84b3b76) "Social network analysis service for career guidance of the population" | [Solution](https://github.com/EgorTarasov/lct-2023-yakutia)
-* 🥉 [Цифровой прорыв](https://hacks-ai.ru/events/1077372) "Generating descriptions of museum exhibits using multimodal LLM" 2024 | [Solution](https://github.com/Sapf3ar/expo-search)
-* 4 place [Цифровой прорыв](https://hacks-ai.ru/hackathons.html?eventId=969074&tabId=981430&number=1) "MVP for work with documentation" 2023 | [Solution](https://github.com/Sapf3ar/case1)
-* 5 place [Цифровой прорыв](https://hacks-ai.ru/hackathons.html?eventId=969079&caseEl=993800&tab=1) "OCR recognition and graph clusterization" 2023 | [Solution](https://github.com/Sapf3ar/topblog_case)
-* [ЛЦТ](https://i.moscow/lct) "Service for indexing and searching videos by text query" 2024 | [Solution](https://github.com/Sapf3ar/tiktokers/tree/main)
-</br>
 
 ### 🌐 Languages
 🇷🇺 Russian - Native <br>
