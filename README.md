@@ -1,5 +1,5 @@
 ### <h1 align="left">Georgii Aparin</h1>
-### DL Audio Engineer or Researcher idk
+### Chill Guy
 Fields of interest: Audio, Fishing<br />
 </br>
 
