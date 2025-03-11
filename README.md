@@ -1,10 +1,5 @@
 ### <h1 align="left">Georgii Aparin</h1>
 
-### 🎓 Education
-* [Deep Learning School](https://dls.samcs.ru/) (2022 - 2023)
-* [NUST MISIS](https://en.misis.ru) (Since 2022)
-</br>
-
 ### ☕ Work Expirience
 * [Uvenco](https://uvenco.ru/) - DL Audio Egineer (November 2023 - November 2024)
 * [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) - DL Audio Researcher (November 2024 - now)
